@@ -36,10 +36,10 @@ authentication-system/
 ![Register](screenshots/register.jpg)
 
 ### Forgot Password
-![Forgot](screenshots/forgot password.jpg)
+![Forgot](screenshots/forgotpassword.jpg)
 
-## Reset Password
-![Reset](screenshots/reset password.jpg)
+### Reset Password
+![Reset](screenshots/resetpassword.jpg)
 
 ## Dashboard
 ![Dashboard](screenshots/dashboard.jpg)
