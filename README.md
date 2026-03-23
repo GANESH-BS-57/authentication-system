@@ -27,7 +27,7 @@ authentication-system/
 - CSS3
 - Bootstrap 5
 
-## Screenshots
+## screenshots
 
 ### Login Page
 ![Login](screenshots/login.jpg)
