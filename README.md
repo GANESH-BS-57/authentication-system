@@ -35,11 +35,11 @@ authentication-system/
 ### Register Page
 ![Register](screenshots/register.jpg)
 
-### Forgot Password
-![Forgot password](screenshots/forgotpassword.jpg)
+### Forgot
+![Forgot](screenshots/forgot.jpg)
 
-### Reset Password
-![Reset password](screenshots/resetpassword.jpg)
+### Reset
+![Reset](screenshots/reset.jpg)
 
 ## Dashboard
 ![Dashboard](screenshots/dashboard.jpg)
