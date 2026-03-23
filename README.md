@@ -30,19 +30,19 @@ authentication-system/
 ## Screenshots
 
 ### Login Page
-![Login](screenshots/login.png)
+![Login](screenshots/login.jpg)
 
 ### Register Page
-![Register](screenshots/register.png)
+![Register](screenshots/register.jpg)
 
 ### Forgot Password
-![Forgot](screenshots/forgot.png)
+![Forgot](screenshots/forgot.jpg)
 
 ## Reset Password
-![Reset](screenshots/reset.png)
+![Reset](screenshots/reset.jpg)
 
 ## Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpg)
 
 ## Author
 Ganesh BS
